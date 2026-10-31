@@ -114,6 +114,14 @@ Mi intención es compartir el código y los archivos de diseño para que otras p
 
 Los archivos incluyen variantes y pruebas de desarrollo; todavía hay que identificar las piezas que corresponden al montaje definitivo.
 
-<!-- PENDIENTE ANTES DE PUBLICAR: revisar las versiones que se compartirán y elegir una licencia. -->
+## Licencias
+
+El proyecto se comparte con licencias permisivas: puedes utilizarlo, modificarlo, fabricar tus propias versiones y venderlas, sin obligación de publicar tus mejoras.
+
+- **Código:** [MIT](LICENSES/MIT.txt).
+- **Diseños de hardware (FreeCAD, STEP y STL):** [CERN-OHL-P-2.0](LICENSES/CERN-OHL-P-2.0.txt).
+- **Textos, fotografías, vídeos y gráficos propios:** [CC0 1.0](LICENSES/CC0-1.0.txt), sin exigir atribución.
+
+Se deben respetar los avisos y condiciones de cada licencia. Consulta el [alcance completo](LICENSE.md) y las [excepciones para material de terceros](THIRD_PARTY.md).
 
 ¡Salud y suerte con vuestros proyectos!
