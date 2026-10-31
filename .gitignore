@@ -1,0 +1,14 @@
+# Material de trabajo local y copias anteriores
+/archivo_local/
+/.image_tools/
+# Registro interno de edición con rutas locales
+/media/imagenes/robot/alternativas/edicion.json
+
+# Archivos temporales de las aplicaciones
+__pycache__/
+*.pyc
+.~lock.*#
+*.FCBak
+*.FCStd1
+Thumbs.db
+.DS_Store
